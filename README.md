@@ -9,7 +9,7 @@ git clone https://github.com/iColdPlayer/django-shop.git
 
 cd django-shop
 ```
-Create the VirtualEnv for your Django project, learn more about Virtual Environment [here](https://dev.notnoob.com/tutorial-virtual-environment/) (Indonesian).
+
 
 ```
 python -m venv env
